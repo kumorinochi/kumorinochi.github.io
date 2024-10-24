@@ -1,1 +1,0 @@
-# kumorinochi.github.io
