@@ -260,7 +260,7 @@ main p {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
-  max-width: 350px;/* ボタンを設置する場所の最大横幅 */
+  max-width: 900px;/* ボタンを設置する場所の最大横幅 */
   margin: 0 auto;/* ボタンを中央へ */
 }
 
