@@ -304,6 +304,20 @@ ul.snsbtniti {
   letter-spacing: 0;
 }
 
+/* エックス背景 */
+.my_x1 {
+  background: #000;
+}
+
+/* Instagram紫グラデ背景 */
+.my_instagram1 {
+ background: linear-gradient(45deg, rgba(254,212,117,1) 0%,rgba(229,61,93,1) 50%,rgba(194,49,134,1) 70%,rgba(156,56,187,1) 100%);
+}
+
+/* Facebook背景 */
+.my_facebook1 {
+  background: transparent;
+
 /* ボタンマウスホバー時少し浮き上がる */
 .flowbtn:hover {
   -webkit-transform: translateY(-5px);
