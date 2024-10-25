@@ -357,6 +357,7 @@ footer .pr {display: block;}
 .list-simple {
 	text-align: center;	/*中身をセンタリング*/
 	max-width: 700px;		/*ボックスの幅*/
+	width:50%;
 	margin: 0 auto 4rem;	/*ボックスの外側にとるスペース。上、左右、下。*/
 }
 
