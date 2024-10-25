@@ -288,7 +288,7 @@ ul.snsbtniti {
   display: inline-block;
   width: 50px; /* 背景横幅 */
   height: 50px;/* 背景高さ */
-  font-size: 40px;/* アイコンサイズ */
+  font-size: 20px;/* アイコンサイズ */
   border-radius: 4px;
   color: #fff!important;/* ボタン内カラー */
   transition: .5s;
