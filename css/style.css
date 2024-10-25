@@ -292,12 +292,6 @@ ul.snsbtniti {
   margin-bottom:10px;/* ボタン下余白 */
 }
 
-/* アイコンの位置を少し下げる */
-.flowbtn i {
-  position: relative;
-  top: 5px;
-}
-
 /* ボタン内テキスト調整 */
 .flowbtn div {
   font-size: 12px;
