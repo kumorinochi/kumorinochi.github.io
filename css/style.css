@@ -272,7 +272,7 @@ ul.snsbtniti {
 
 /* ボタン同士の余白調整 */
 .snsbtniti li {
-  flex: 0 0 50%;/* ボタンを3つ並びへ */
+  flex: 0 0 33%;/* ボタンを3つ並びへ */
   text-align: center!important;
 }
 
