@@ -293,6 +293,7 @@ ul.snsbtniti {
   color: #fff!important;/* ボタン内カラー */
   transition: .5s;
   text-decoration: none;
+box-shadow: 0 0px 0px #999;
   margin-bottom:10px;/* ボタン下余白 */
 }
 
