@@ -272,13 +272,13 @@ ul.snsbtniti {
 
 /* ボタン同士の余白調整 */
 .snsbtniti li {
-  flex: 0 0 30%;/* ボタンを3つ並びへ */
+  flex: 0 0 20%;/* ボタンを3つ並びへ */
   text-align: center!important;
 }
 
 .flowbtn i {
   position: relative;
-  top: 0.2px;
+  top: 1px;
 }
 
 /* ボタン全体 */
