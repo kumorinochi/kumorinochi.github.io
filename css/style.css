@@ -276,6 +276,11 @@ ul.snsbtniti {
   text-align: center!important;
 }
 
+.flowbtn i {
+  position: relative;
+  top: 1px;
+}
+
 /* ボタン全体 */
 .flowbtn {
   font-family: 'Noto Sans Japaneses', sans-serif; /* フォント指定 */
