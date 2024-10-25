@@ -255,7 +255,7 @@ main p {
 	width: calc(100% - 8em);	/*「8em」は上の「.new dt」のwidthの値です*/
 }
 
-/* ボタン全体の外枠指定 */
+/* これ！！！！ボタン全体の外枠指定 */
 .snsbtniti {
   display: flex;
   flex-flow: row wrap;
