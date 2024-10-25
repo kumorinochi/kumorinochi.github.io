@@ -286,8 +286,8 @@ ul.snsbtniti {
   font-family: 'Noto Sans Japaneses', sans-serif; /* フォント指定 */
   position: relative;
   display: inline-block;
-  width: 64px; /* 背景横幅 */
-  height: 64px;/* 背景高さ */
+  width: 50px; /* 背景横幅 */
+  height: 50px;/* 背景高さ */
   font-size: 40px;/* アイコンサイズ */
   border-radius: 4px;
   color: #fff!important;/* ボタン内カラー */
